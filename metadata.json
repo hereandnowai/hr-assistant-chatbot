@@ -1,0 +1,8 @@
+{
+  "name": "HR Assistant Chatbot",
+  "description": "An intelligent HR Assistant chatbot to help employees with HR-related queries, company policies, benefits, and more, powered by Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
